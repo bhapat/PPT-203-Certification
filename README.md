@@ -35,7 +35,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Language: Defined Resource Types](https://docs.puppetlabs.com/puppet/3.7/reference/lang_defined_types.html)
 
 ### Modules
-
+* [Man Page](https://docs.puppet.com/puppet/4.0/reference/man/module.html)
 #### Describe how to use modules from the Forge
 * [Installing Modules](https://docs.puppetlabs.com/puppet/latest/reference/modules_installing.html)
 
@@ -46,8 +46,6 @@ These are the exam objectives you review and understand in order to pass the tes
 #### Identify module authoring best practices
 * [Beginner's Guide to Modules](https://docs.puppetlabs.com/guides/module_guides/bgtm.html)
 * [Best Practices for Building Puppet Modules](https://puppetlabs.com/blog/best-practices-building-puppet-modules)
-#### Man page - puppet module
-* [Man Page](https://docs.puppet.com/puppet/4.0/reference/man/module.html)
 
 ### Using Puppet
 
