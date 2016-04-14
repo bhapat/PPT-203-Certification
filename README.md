@@ -36,6 +36,7 @@ These are the exam objectives you review and understand in order to pass the tes
 
 ### Modules
 * [Man Page](https://docs.puppet.com/puppet/4.0/reference/man/module.html)
+
 #### Describe how to use modules from the Forge
 * [Installing Modules](https://docs.puppetlabs.com/puppet/latest/reference/modules_installing.html)
 
